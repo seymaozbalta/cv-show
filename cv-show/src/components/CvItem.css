@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:x-large;
+    width: auto;
+    height: auto;
+    font-weight: bold;
+    border: 1px solid #243028;
+    border-radius: 12px;
+    border-width: 3px;
+    background-color:#243028;
+    margin: auto;
+    padding: 3px;
+    color: #dad184;
+    align-items: center;
+    
+    
+    
+}
+.cv-item p{
+    font-size: medium;
+    font-weight: bold;
+    color: #051927;
+    border: 1px solid #051927;
+    background-color:#e5e7b5;
+    align-items: center;
+
+}
